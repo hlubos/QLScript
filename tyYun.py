@@ -3,6 +3,8 @@
  
 感谢作者开源天翼云签到部分源码：
 https://github.com/t00t00-crypto/cloud189-action/blob/master/checkin.py 及 [login_function.py](https://github.com/Dawnnnnnn/Cloud189/blob/master/functions/login_function.py)
+
+const $ = new Env('雨云云游戏')
 """
 import time
 import re
